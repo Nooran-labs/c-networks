@@ -1,6 +1,0 @@
-
-scapy
-pandas
-matplotlib
-seaborn
-numpy
