@@ -72,7 +72,7 @@ Similarly, enter file paths when prompted.
 
 ##  **Expected Output**
 - The project will generate **comparative graphs** showing network traffic analysis.
-- A results file `attack_analysis_results.csv` will be stored in the `res/` directory.
+- A results file results.csv` will be stored in the `res/` directory.
 
 ---
 
