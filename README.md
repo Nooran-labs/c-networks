@@ -76,9 +76,7 @@ Similarly, enter file paths when prompted.
 
 ---
 
-##  **Notes**
-- **Do NOT upload `.pcap` files to GitHub.** If necessary, store them in a separate cloud storage and provide a link.
-- **Ensure your project runs on Linux.**
+##  **Note**
 - **If any issues occur, restart the terminal and check file paths explicitly.**
 
 ---
